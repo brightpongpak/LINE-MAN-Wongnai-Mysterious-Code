@@ -1,3 +1,3 @@
 # LINE-MAN-Wongnai-Mysterious-Code
 
-my ans: Join:us:at:LINE:MAN:Wongnai
+my ans is "Join:us:at:LINE:MAN:Wongnai"
